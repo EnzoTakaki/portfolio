@@ -107,6 +107,8 @@ main#main2 {
 main #main3 {
     color: white;
     text-align: center;
+    font-size: 1.3em;
+    padding: 10px;
 }
 div #main3 {
     margin: auto;
@@ -114,7 +116,7 @@ div #main3 {
     color: black;
     border-radius: 10px;
     width: 600px;
-    height: 400px;
+    height: 600px;
 }
 
 
